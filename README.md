@@ -78,4 +78,4 @@ If you want to use the BSON visitor, [bson-cxx](https://github.com/mongodb/mongo
 License
 ---
 
-Tell me if you need a licensed version :)
+LGPL v3 applies by default.
